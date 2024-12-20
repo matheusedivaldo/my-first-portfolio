@@ -1,18 +1,18 @@
-# 🌟 My First Portfolio
+# 🌟 Meu Primeiro Portfólio
 
-Welcome to my first personal portfolio! This project showcases my initial steps in web development. 🌱
+Bem-vindo ao meu primeiro portfólio pessoal! Este projeto representa meus primeiros passos no desenvolvimento web. 🌱
 
-## ✨ Features
-- 🎨 Simple and clean design
-- 📱 Fully responsive layout
-- 🚀 Hosted on GitHub Pages
+## ✨ Funcionalidades
+- 🎨 Design simples e limpo
+- 📱 Layout totalmente responsivo
+- 🚀 Hospedado no GitHub Pages
 
-## 🌐 Access the Portfolio
-You can view the live site here: [My First Portfolio](https://matheusedivaldo.github.io/my-first-portfolio/)
+## 🌐 Acesse o Portfólio
+Você pode acessar o site aqui: [Meu Primeiro Portfólio](https://matheusedivaldo.github.io/my-first-portfolio/)
 
-## 🛠️ Technologies Used
+## 🛠️ Tecnologias Utilizadas
 - 🖋️ HTML
 - 🎨 CSS
 
-## 📜 License
-This project is licensed under the MIT License.
+## 📜 Licença
+Este projeto está licenciado sob a Licença MIT.
